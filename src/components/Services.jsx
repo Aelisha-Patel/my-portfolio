@@ -1,3 +1,8 @@
+/**
+*Aelisha-Patel
+*ID: 301488557
+*/
+
 import React from "react";
 import data from '../assets/data.jpg';
 import web from '../assets/webdev.jpg';

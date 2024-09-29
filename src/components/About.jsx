@@ -1,3 +1,8 @@
+/**
+*Aelisha-Patel
+*ID: 301488557
+*/
+
 import React from "react";
 import './About.css';
 import pic from "../assets/picture.jpg";

@@ -1,3 +1,7 @@
+/**
+*Aelisha-Patel
+*ID: 301488557
+*/
 import React from "react";
 import './Project.css';
 import park from '../assets/parking.jpg';
