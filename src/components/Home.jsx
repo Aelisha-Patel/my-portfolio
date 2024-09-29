@@ -1,6 +1,6 @@
 
 import React from "react";
-import '../components/Home.css';
+import './Home.css';
 import { Link } from "react-router-dom";
 
 

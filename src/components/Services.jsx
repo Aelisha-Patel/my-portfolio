@@ -1,7 +1,7 @@
 import React from "react";
 import data from '../assets/data.jpg';
 import web from '../assets/webdev.jpg';
-import '../components/Service.css';
+import './Service.css';
 
 export default function Services() {
     return (

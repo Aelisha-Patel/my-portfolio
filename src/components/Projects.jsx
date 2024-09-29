@@ -1,5 +1,5 @@
 import React from "react";
-import '../components/Project.css';
+import './Project.css';
 import park from '../assets/parking.jpg';
 import food from '../assets/food.jpg';
 import house from '../assets/houserent.png';
